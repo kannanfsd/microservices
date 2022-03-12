@@ -1,0 +1,5 @@
+package com.nglabs.microservices.model;
+
+public class Limits {
+
+}
