@@ -1,5 +1,0 @@
-package com.nglabs.microservices.controller;
-
-public class LimitsController {
-
-}
